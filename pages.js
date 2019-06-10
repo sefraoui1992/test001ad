@@ -10,7 +10,7 @@ var PAGES = [
         cta: "Play Now",
         imageurl: "https://www.cmo4hire.com/wp-content/uploads/2016/10/Blog-background-hello-world.jpg",
         payload: null,
-        pat: "EAAP4UambgGQBACipAtq9FFJv3nLGub1PQfFpSPIvOdj6y5pZA9Jc2oVZCPfVZBvY2E7MD3JPPRX9iiNRgHE9N8tZAegZChZAF1ZAOZC6khJ1HfaeDTZAtFowCQWfhYfjZC2Maz2BFsZBECQDqy4upr1OkdooTHHi3jA1AXA1v81AZCHRyxX2EaM9snxM",
+        pat: "EAAP4UambgGQBAM76fiwIjZCIYoJeDgFa5ei4keMRfTZCMfdb1f4sOpCLuFvupl3eCbXWgsHFW6fsbvKFrBvyHlbqKWim0kuWNVkxzcHg8GkbVAEDrQKUcAXqhVVGeAbtOJt0VnVznWx3b2IR0JRkwLmkWTVgJwp6My6npeCzWRJaZCsrfCc",
     },
 	
 
